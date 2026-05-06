@@ -20,7 +20,11 @@ My current focus is building a strong base in programming logic before diving de
 - [x] Input/Output Operations
 - [x] Control Flow (If-Else, Loops)
 - [ ] Functions & Arrays
-- [ ] Data Structures (Coming Soon)
+- [ ] Pointers and references
+- [ ] Object-Oriented Programming(OOPs)
+- [ ] Standard Templated Library(STL)
+- [ ] File Handling
+- [ ] Data Structures algorithms (Coming Soon)
 ## 💻 How to Run
 To run any of these files on your local machine:
 1. Ensure you have a C++ compiler (like G++) installed.
