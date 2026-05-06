@@ -17,7 +17,7 @@ Welcome to my learning repository! This project serves as a documentation of my 
 My current focus is building a strong base in programming logic before diving deeper into Data Science algorithms.
 - [x] Basic Syntax & Variables
 - [x] Input/Output Operations
-- [ ] Control Flow (If-Else, Loops)
+- [x] Control Flow (If-Else, Loops)
 - [ ] Functions & Arrays
 - [ ] Data Structures (Coming Soon)
 ## 💻 How to Run
