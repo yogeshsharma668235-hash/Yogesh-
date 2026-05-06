@@ -34,4 +34,6 @@ To run any of these files on your local machine:
 5. Run the program: `./output`
 ---
 *Happy Coding! 🚀*
-*Connect with me: [Link to your LinkedIn or Portfolio if you have one]*
+*Connect with me: [ <a href="https://www.linkedin.com/in/yogesh87678" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a> ]
