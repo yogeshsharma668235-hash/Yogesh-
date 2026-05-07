@@ -7,6 +7,7 @@ Welcome to my learning repository! This project serves as a documentation of my 
 | **Hello World** | Basic syntax and structure of a C++ program. | ✅ Completed |
 | **Variables** | Exploring data types and memory allocation. | ✅ Completed |
 | **User Input** | Implementing interactive programs using `cin` and `cout`. | ✅ Completed |
+| **Control Flow** | Implementing loops and conditional statements. | ✅ Completed |
 
 ## 🛠 Tech Stack & Tools
 * **Language:** C++
@@ -17,9 +18,13 @@ Welcome to my learning repository! This project serves as a documentation of my 
 My current focus is building a strong base in programming logic before diving deeper into Data Science algorithms.
 - [x] Basic Syntax & Variables
 - [x] Input/Output Operations
-- [ ] Control Flow (If-Else, Loops)
+- [x] Control Flow (If-Else, Loops)
 - [ ] Functions & Arrays
-- [ ] Data Structures (Coming Soon)
+- [ ] Pointers and references
+- [ ] Object-Oriented Programming(OOPs)
+- [ ] Standard Templated Library(STL)
+- [ ] File Handling
+- [ ] Data Structures algorithms (Coming Soon)
 ## 💻 How to Run
 To run any of these files on your local machine:
 1. Ensure you have a C++ compiler (like G++) installed.
@@ -29,4 +34,6 @@ To run any of these files on your local machine:
 5. Run the program: `./output`
 ---
 *Happy Coding! 🚀*
-*Connect with me: [Link to your LinkedIn or Portfolio if you have one]*
+*Connect with me:  <a href="https://www.linkedin.com/in/yogesh87678" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a> 
