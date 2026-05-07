@@ -7,6 +7,7 @@ Welcome to my learning repository! This project serves as a documentation of my 
 | **Hello World** | Basic syntax and structure of a C++ program. | ✅ Completed |
 | **Variables** | Exploring data types and memory allocation. | ✅ Completed |
 | **User Input** | Implementing interactive programs using `cin` and `cout`. | ✅ Completed |
+| **Arithmetic Operators** | Implementing addition, subtraction, multiplication, division, and modulus. | ✅ Completed |
 | **Control Flow** | Implementing loops and conditional statements. | ✅ Completed |
 
 ## 🛠 Tech Stack & Tools
